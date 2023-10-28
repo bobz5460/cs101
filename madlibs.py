@@ -1,7 +1,0 @@
-adjective = input("input a adjective \n")
-adjective2 = input("input another adjective \n")
-food = input("input a food \n")
-name = input("enter a funny name \n")
-place = input("input a place \n")
-print(f'Once upon a time, there was a person named {name}, and he was very, very {adjective}. He was eating {food} at {place}, and he was extremely {adjective2}')
-print("this is a good enough madlib the story kinda sucks tho")
